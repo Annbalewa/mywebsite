@@ -77,3 +77,10 @@ ul{
   .container {
     padding: 2px 16px;
   }
+
+  .imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
